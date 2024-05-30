@@ -16,9 +16,5 @@ public class Main {
 
         //Adrian Ramos
     }
-    public static void main(String[] args) {
 
-        Procesadores pK = new Procesadores();
-        //Kevin Mendoza integrante sto dgo
-    }
 }
