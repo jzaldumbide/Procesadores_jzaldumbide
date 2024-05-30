@@ -39,12 +39,23 @@ public class Main {
         Procesadores_AMD amdVA3 = new Procesadores_AMD(16,85.00,4.5,"Ryzer 7 5600X","AMD4");
 
 
+        //Mateo Cardenas
+        Procesadores_AMD p21 = new Procesadores_AMD(12, 105.0, 3.7,"AMD Ryzen™ 9 5900X", "AM4", true);
+        Procesadores_AMD p22 = new Procesadores_AMD(8, 35.0, 3.6,"AMD Ryzen™ 8 PRO 8700GE", "AM5", true);
+        Procesadores_AMD p23 = new Procesadores_AMD(6, 65.0, 4.3,"AMD Ryzen™ 7 8600G", "AM4", true);
+
+
 
 
         //Cambios de Alisson Viteri
         Procesadores_AMD proc_1 = new Procesadores_AMD(3,10.5,18, "Ryzen9","AM5",false);
         Procesadores_AMD proc_2 = new Procesadores_AMD(8,12.5,10, "Epy77","FM1",false);
         Procesadores_AMD proc_3 = new Procesadores_AMD(4,13,5, "Threadripper","B650",true);
+        //Marlon Nicolalde
+        Procesadores_Intel pi1=new Procesadores_Intel(16, 3.74, 5.9, "Core i9-14900KS", "Socket H4 LGA-1151", false);
+        Procesadores_Intel pi2=new Procesadores_Intel(12, 2.45, 5.8, "Core i5-14450HX", "Socked 1200 Boxed", true);
+        Procesadores_Intel pi3=new Procesadores_Intel(8, 2.12, 2.14, "Core i7-8705G", " Socket LGA1366", true);
+
 
     }
 
