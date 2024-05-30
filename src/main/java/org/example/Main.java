@@ -33,6 +33,11 @@ public class Main {
         Procesadores_AMD p13 = new Procesadores_AMD(8, 35.0, 3.6,"AMD Ryzen™ 7 PRO 8700GE", "AM5", true);
         Procesadores_AMD p14 = new Procesadores_AMD(6, 65.0, 4.3,"AMD Ryzen™ 5 8600G", "AM4", true);
 
+        //Anderson Vilatuña
+        Procesadores_AMD amdVA1 = new Procesadores_AMD(12,65.00,3.5,"Ryzer 5 3200G","AMD4");
+        Procesadores_AMD amdVA= new Procesadores_AMD(8,35.00,2.5,"Ryzer 8 5600G","AMD4");
+        Procesadores_AMD amdVA3 = new Procesadores_AMD(16,85.00,4.5,"Ryzer 7 5600X","AMD4");
+
 
 
 
@@ -40,6 +45,7 @@ public class Main {
         Procesadores_AMD proc_1 = new Procesadores_AMD(3,10.5,18, "Ryzen9","AM5",false);
         Procesadores_AMD proc_2 = new Procesadores_AMD(8,12.5,10, "Epy77","FM1",false);
         Procesadores_AMD proc_3 = new Procesadores_AMD(4,13,5, "Threadripper","B650",true);
+
     }
 
 
