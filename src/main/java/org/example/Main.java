@@ -13,18 +13,24 @@ public class Main {
         Procesadores_Intel pro_3 = new Procesadores_Intel(5,7.5,5, "Corei7","LGA1158",true);
         Procesadores_Intel pro_4 = new Procesadores_Intel(4,4.5,8, "Corei8","LGA1159",true);
         Procesadores_Intel pro_5 = new Procesadores_Intel(6,6.5,4, "Corei4","LGA1153",false);
+
         //Christian Márquez integrante x
+        Procesadores_moviles Movil1 = new Procesadores_moviles(8, 10.0, 2.84, "Snapdragon 888", true);
+        Procesadores_moviles Movil2 = new Procesadores_moviles(6, 6.0, 2.73, "Exynos 2100", true);
+        Procesadores_moviles Movil3 = new Procesadores_moviles(8, 5.0, 3.1, "Apple A14 Bionic", true);
+        Procesadores_moviles Movil4 = new Procesadores_moviles(8, 8.5, 2.86, "Kirin 9000", true);
+
 
         //Alisson Muñoz
-        Procesadores_AMD AMD = new Procesadores_AMD(12, 150.0, "Ryzen 9 5900HX", "AM4", "70°C");
+        Procesadores_AMD AMD = new Procesadores_AMD(12, 150.0, 2.84, "Ryzen 9 5900HX", "AM4");
         Procesadores_Intel Intel = new Procesadores_Intel(8, 3.2, "Core i7", true);
-        Procesadores_AMD AMD3 = new Procesadores_AMD(8,95.0,35,"Intel Core i7-11700K","LGA 1200")
+        Procesadores_AMD AMD3 = new Procesadores_AMD(8,95.0,35.0,"Intel Core i7-11700K","LGA 1200");
 
 
         //David Muela
         Procesadores_AMD amd1 = new Procesadores_AMD(12,65.00,3.5,"Ryzer 3 3200G","AMD4");
         Procesadores_AMD amd2 = new Procesadores_AMD(8,35.00,2.5,"Ryzer 5 5600G","AMD4");
-        Procesadores_AMD amd3 = new Procesadores_AMD(16,85.00,4.5,"Ryzer 5 5600X","AMD4")
+        Procesadores_AMD amd3 = new Procesadores_AMD(16,85.00,4.5,"Ryzer 5 5600X","AMD4");
 
         //Alejandro Gutierrez
         Procesadores_AMD procesador1 = new Procesadores_AMD(16,56.,5.7,"Ryzen 9 7950X","ARM");
