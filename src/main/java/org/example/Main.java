@@ -1,7 +1,7 @@
 package org.example;
 
 import procesadores.Procesadores;
-
+import procesadores.Procesadores_moviles;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,23 +11,10 @@ public class Main {
 
         //Alisson Muñoz
 
-        //Elkin Diaz
 
 
 
-
-        //Kevin Mendoza
         //Adrian Ramos
-
-        //Richard Soria
-
-        // Walter Cobacango
-
-        //Elkin Diaz
-
-        //Richard Padilla
-
-        //Josue Guerra
+        Procesadores_moviles quealcom = new Procesadores_moviles(8, 6.3, 12.6, "Snapdragon 8 gen3", true);
     }
-
 }
