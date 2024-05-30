@@ -16,9 +16,18 @@ public class Main {
 
         //Adrian Ramos
 
-        //Richard Soria
 
-        // Walter Cobacango
+
+
+
+
+
+
+        // Richard Padilla
+
+
+
+
+        //Kevin Mendoza integrante sto dgo
     }
-
 }
