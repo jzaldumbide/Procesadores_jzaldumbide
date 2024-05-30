@@ -20,5 +20,8 @@ public class Main {
 
         // Carlos Perez
         Procesadores_AMD procesador1 = new Procesadores_AMD(6, 65.0, 3.5, "AMD RYZEN5 5600X", "AM4");
+
+        //Santiago Cumbal
+        Procesadores_moviles procesador = new Procesadores_moviles(6, 0.5, 3.23, "A15 Bionic",true);
     }
 }
