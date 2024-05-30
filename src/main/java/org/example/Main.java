@@ -74,6 +74,14 @@ public class Main {
         Procesadores_Intel pi3=new Procesadores_Intel(8, 2.12, 2.14, "Core i7-8705G", " Socket LGA1366", true);
 
 
+
+
+
+        //Anthony Astudillo
+        Procesadores_Intel p15 = new Procesadores_Intel(20,260.45,5.6,"intel core i7-14700KF","LGA1700",true);
+        Procesadores_AMD p16 = new Procesadores_AMD(7, 105.0, 4,"Ryzen 5 4500 4gen", "AM4", false);
+        Procesadores_moviles p17 = new Procesadores_moviles(6,7.25,3.23,"Chip A15 Bionic",true);
+
     }
 
 
