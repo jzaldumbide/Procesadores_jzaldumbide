@@ -24,5 +24,18 @@ public class Main {
 
         Procesadores pK = new Procesadores();
         //Kevin Mendoza integrante sto dgo
+
+
+
+
+
+
+
+
+
+
+
+
+        //Josue Guerra
     }
 }
