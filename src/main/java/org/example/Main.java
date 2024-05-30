@@ -22,23 +22,17 @@ public class Main {
         //Richard Soria
 
         // Walter Cobacango
-    }
-    public static void main(String[] args) {
 
-        Procesadores pK = new Procesadores();
+        //Elkin Diaz
+
+
         //Kevin Mendoza integrante sto dgo
-
-
-
-
-
-
-
-
-
-
-
+        Procesadores pK = new Procesadores();
 
         //Josue Guerra
+
     }
+
+
+
 }
