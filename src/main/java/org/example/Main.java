@@ -39,6 +39,10 @@ public class Main {
         //Ithan Camacho
         Procesadores_moviles quealcom = new Procesadores_moviles(8, 6.0, 12.6, "Snapdragon 8 gen2", true);
 
+        //Jose Lincango
+        //Cambios de Alisson Viteri
+        Procesadores_AMD proc_900 = new Procesadores_AMD(3,10.5,18, "Ryzen9","AM5",false);
+        Procesadores_AMD proc_901 = new Procesadores_AMD(8,12.5,10, "Epy77","FM1",false);
     }
 
 }
