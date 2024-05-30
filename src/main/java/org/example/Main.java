@@ -1,7 +1,8 @@
 package org.example;
 
 import procesadores.Procesadores;
-import procesadores.Procesadores_Intel
+import procesadores.Procesadores_Intel;
+import procesadores.Procesadores_AMD;
 
 public class Main {
     public static void main(String[] args) {
@@ -23,6 +24,11 @@ public class Main {
         //Richard Soria
 
         // Walter Cobacango
+
+        //Cambios de Alisson Viteri
+        Procesadores_AMD proc_1 = new Procesadores_AMD(3,10.5,18, "Ryzen9","AM5",false);
+        Procesadores_AMD proc_2 = new Procesadores_AMD(8,12.5,10, "Epy77","FM1",false);
+        Procesadores_AMD proc_3 = new Procesadores_AMD(4,13,5, "Threadripper","B650",true);
     }
 
 }
