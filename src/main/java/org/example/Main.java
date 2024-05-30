@@ -25,10 +25,7 @@ public class Main {
 
         //Elkin Diaz
     }
-    public static void main(String[] args) {
 
-        Procesadores pK = new Procesadores();
-        //Kevin Mendoza integrante sto dgo
 
 
 
