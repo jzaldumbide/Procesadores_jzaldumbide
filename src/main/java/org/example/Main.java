@@ -22,6 +22,11 @@ public class Main {
         //Adrian Ramos
 
         //Richard Soria
+        //Richard Soria
+        Procesadores_AMD p12 = new Procesadores_AMD(12, 105.0, 3.7,"AMD Ryzen™ 9 5900X", "AM4", true);
+        Procesadores_AMD p13 = new Procesadores_AMD(8, 35.0, 3.6,"AMD Ryzen™ 7 PRO 8700GE", "AM5", true);
+        Procesadores_AMD p14 = new Procesadores_AMD(6, 65.0, 4.3,"AMD Ryzen™ 5 8600G", "AM4", true);
+
 
 
 
