@@ -3,6 +3,7 @@ package org.example;
 import procesadores.Procesadores;
 import procesadores.Procesadores_Intel;
 import procesadores.Procesadores_AMD;
+import procesadores.Procesadores_moviles;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,13 +16,20 @@ public class Main {
         //Christian Márquez integrante x
 
         //Alisson Muñoz
+        Procesadores_AMD AMD = new Procesadores_AMD(12, 150.0, "Ryzen 9 5900HX", "AM4", "70°C");
+        Procesadores_Intel Intel = new Procesadores_Intel(8, 3.2, "Core i7", true);
+        Procesadores_AMD AMD3 = new Procesadores_AMD(8,95.0,35,"Intel Core i7-11700K","LGA 1200")
+
 
         //David Muela
         Procesadores_AMD amd1 = new Procesadores_AMD(12,65.00,3.5,"Ryzer 3 3200G","AMD4");
         Procesadores_AMD amd2 = new Procesadores_AMD(8,35.00,2.5,"Ryzer 5 5600G","AMD4");
         Procesadores_AMD amd3 = new Procesadores_AMD(16,85.00,4.5,"Ryzer 5 5600X","AMD4")
 
-
+        //Alejandro Gutierrez
+        Procesadores_AMD procesador1 = new Procesadores_AMD(16,56.,5.7,"Ryzen 9 7950X","ARM");
+        Procesadores_Intel procesador2 = new Procesadores_Intel(8,50.,2.7,"Intel Core 15","LGA",false);
+        Procesadores_moviles procesador3 = new Procesadores_moviles(16,56.,5.7,"Snapdragon Gen 8",true);
 
 
 
@@ -41,7 +49,7 @@ public class Main {
 
         //Mateo Cardenas
         Procesadores_AMD p21 = new Procesadores_AMD(12, 105.0, 3.7,"AMD Ryzen™ 9 5900X", "AM4", true);
-        Procesadores_AMD p22 = new Procesadores_AMD(8, 35.0, 3.6,"AMD Ryzen™ 8 PRO 8700GE", "AM5", true);
+        Procesadores_AMD p22 = new Procesadores_AMD(8, 3.0, 3.6,"AMD Ryzen™ 8 PRO 8700GE", "AM5", true);
         Procesadores_AMD p23 = new Procesadores_AMD(6, 65.0, 4.3,"AMD Ryzen™ 7 8600G", "AM4", true);
 
 
