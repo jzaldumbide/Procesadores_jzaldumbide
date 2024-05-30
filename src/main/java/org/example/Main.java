@@ -10,9 +10,9 @@ public class Main {
 
         Procesadores p1 = new Procesadores();
         //Cambio Mireya Garcia
-        Procesadores_Intel pro_3 = new Procesadores_Intel(5,7.5,5, "Corei7","LGA1158",true);
-        Procesadores_Intel pro_4 = new Procesadores_Intel(4,4.5,8, "Corei8","LGA1159",true);
-        Procesadores_Intel pro_5 = new Procesadores_Intel(6,6.5,4, "Corei4","LGA1153",false);
+        Procesadores_Intel pro_3 = new Procesadores_Intel(5,7.5,5.5, "Corei7","LGA1158",true);
+        Procesadores_Intel pro_4 = new Procesadores_Intel(4,4.5,8.1, "Corei8","LGA1159",true);
+        Procesadores_Intel pro_5 = new Procesadores_Intel(6,6.5,4.0, "Corei4","LGA1153",false);
 
         //Christian Márquez integrante x
         Procesadores_moviles Movil1 = new Procesadores_moviles(8, 10.0, 2.84, "Snapdragon 888", true);
@@ -43,9 +43,9 @@ public class Main {
 
         //Richard Soria
         //Richard Soria
-        Procesadores_AMD p12 = new Procesadores_AMD(12, 105.0, 3.7,"AMD Ryzen™ 9 5900X", "AM4", true);
-        Procesadores_AMD p13 = new Procesadores_AMD(8, 35.0, 3.6,"AMD Ryzen™ 7 PRO 8700GE", "AM5", true);
-        Procesadores_AMD p14 = new Procesadores_AMD(6, 65.0, 4.3,"AMD Ryzen™ 5 8600G", "AM4", true);
+        Procesadores_AMD p12 = new Procesadores_AMD(12, 105.0, 3,"AMD Ryzen™ 9 5900X", "AM4", true);
+        Procesadores_AMD p13 = new Procesadores_AMD(8, 35.0, 3,"AMD Ryzen™ 7 PRO 8700GE", "AM5", true);
+        Procesadores_AMD p14 = new Procesadores_AMD(6, 65.0, 4,"AMD Ryzen™ 5 8600G", "AM4", true);
 
         //Anderson Vilatuña
         Procesadores_AMD amdVA1 = new Procesadores_AMD(12,65.00,3.5,"Ryzer 5 3200G","AMD4");
@@ -54,9 +54,9 @@ public class Main {
 
 
         //Mateo Cardenas
-        Procesadores_AMD p21 = new Procesadores_AMD(12, 105.0, 3.7,"AMD Ryzen™ 9 5900X", "AM4", true);
-        Procesadores_AMD p22 = new Procesadores_AMD(8, 3.0, 3.6,"AMD Ryzen™ 8 PRO 8700GE", "AM5", true);
-        Procesadores_AMD p23 = new Procesadores_AMD(6, 65.0, 4.3,"AMD Ryzen™ 7 8600G", "AM4", true);
+        Procesadores_AMD p21 = new Procesadores_AMD(12, 105.0, 3,"AMD Ryzen™ 9 5900X", "AM4", true);
+        Procesadores_AMD p22 = new Procesadores_AMD(8, 3.0, 3,"AMD Ryzen™ 8 PRO 8700GE", "AM5", true);
+        Procesadores_AMD p23 = new Procesadores_AMD(6, 65.0, 4,"AMD Ryzen™ 7 8600G", "AM4", true);
 
 
 
