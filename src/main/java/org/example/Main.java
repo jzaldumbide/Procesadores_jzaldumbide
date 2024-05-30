@@ -3,6 +3,7 @@ package org.example;
 import procesadores.Procesadores;
 import procesadores.Procesadores_Intel;
 import procesadores.Procesadores_AMD;
+import procesadores.Procesadores_moviles;
 
 public class Main {
     public static void main(String[] args) {
@@ -21,7 +22,10 @@ public class Main {
         Procesadores_AMD amd2 = new Procesadores_AMD(8,35.00,2.5,"Ryzer 5 5600G","AMD4");
         Procesadores_AMD amd3 = new Procesadores_AMD(16,85.00,4.5,"Ryzer 5 5600X","AMD4")
 
-
+        //Alejandro Gutierrez
+        Procesadores_AMD procesador1 = new Procesadores_AMD(16,56.,5.7,"Ryzen 9 7950X","ARM");
+        Procesadores_Intel procesador2 = new Procesadores_Intel(8,50.,2.7,"Intel Core 15","LGA",false);
+        Procesadores_moviles procesador3 = new Procesadores_moviles(16,56.,5.7,"Snapdragon Gen 8",true);
 
 
 
