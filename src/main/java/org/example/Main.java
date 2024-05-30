@@ -24,15 +24,20 @@ public class Main {
         // Walter Cobacango
 
         //Elkin Diaz
-
-
-        //Kevin Mendoza integrante sto dgo
-        Procesadores pK = new Procesadores();
-
-        //Josue Guerra
-
     }
 
 
 
+
+    //Richard Padilla
+
+
+
+
+
+
+
+
+        //Josue Guerra
+    }
 }
