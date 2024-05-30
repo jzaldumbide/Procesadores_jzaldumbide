@@ -9,4 +9,9 @@ public class Main {
         Procesadores p1 = new Procesadores();
         //Christian Márquez integrante x
     }
+    public static void main(String[] args) {
+
+        Procesadores pK = new Procesadores();
+        //Kevin Mendoza integrante sto dgo
+    }
 }
