@@ -15,4 +15,9 @@ public class Main {
 
         //Richard Soria
     }
+    public static void main(String[] args) {
+
+        Procesadores pK = new Procesadores();
+        //Kevin Mendoza integrante sto dgo
+    }
 }
