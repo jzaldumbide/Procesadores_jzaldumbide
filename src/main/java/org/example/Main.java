@@ -2,6 +2,7 @@ package org.example;
 
 import procesadores.Procesadores;
 import procesadores.Procesadores_AMD;
+import procesadores.Procesadores_moviles;
 
 
 public class Main {
@@ -46,5 +47,12 @@ public class Main {
 
         // Carlos Perez
         Procesadores_AMD procesador1 = new Procesadores_AMD(6, 65.0, 3.5, "AMD RYZEN5 5600X", "AM4");
+
+        //Santiago Cumbal
+        Procesadores_moviles procesador = new Procesadores_moviles(6, 0.5, 3.23, "A15 Bionic",true);
+
+        //Ithan Camacho
+        Procesadores_moviles quealcom = new Procesadores_moviles(8, 6.0, 12.6, "Snapdragon 8 gen2", true);
+
     }
 }
