@@ -58,7 +58,10 @@ public class Main {
         Procesadores_AMD p22 = new Procesadores_AMD(8, 3.0, 3,"AMD Ryzen™ 8 PRO 8700GE", "AM5", true);
         Procesadores_AMD p23 = new Procesadores_AMD(6, 65.0, 4,"AMD Ryzen™ 7 8600G", "AM4", true);
 
-
+        //Wilmer Vargas
+        Procesadores_AMD pamd1 = new Procesadores_AMD(8, 105.0, 4, "Ryzen 7 5800X", "AM4", false);
+        Procesadores_Intel pIntel1 = new Procesadores_Intel(6, 3.9, "Core i5-11600K", true);
+        Procesadores_Intel pIntel2 = new Procesadores_Intel(8, 3.5, "Core i9-11900K", true);
 
 
         //Cambios de Alisson Viteri
