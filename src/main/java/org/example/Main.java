@@ -1,6 +1,8 @@
 package org.example;
 
 import procesadores.Procesadores;
+import procesadores.Procesadores_AMD;
+import procesadores.Procesadores_moviles;
 
 
 public class Main {
@@ -37,7 +39,10 @@ public class Main {
 
 
 
-
+        //Ithan Camacho
+        Procesadores_moviles quealcom = new Procesadores_moviles(8, 6.0, 12.6, "Snapdragon 8 gen2", true);
+        Procesadores_AMD PROC = new Procesadores_AMD(8,12.2,5, "amd ryzen 5 5600h","B650",true);
+        Procesadores_AMD PROC2 = new Procesadores_AMD(8,12.48,5, "amd ryzen 5 4600h","B650",true);
 
 
 
