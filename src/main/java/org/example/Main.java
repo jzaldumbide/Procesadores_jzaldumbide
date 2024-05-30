@@ -40,7 +40,18 @@ public class Main {
         Procesadores_AMD proc_1 = new Procesadores_AMD(3,10.5,18, "Ryzen9","AM5",false);
         Procesadores_AMD proc_2 = new Procesadores_AMD(8,12.5,10, "Epy77","FM1",false);
         Procesadores_AMD proc_3 = new Procesadores_AMD(4,13,5, "Threadripper","B650",true);
+
+
+
+
+
+
+
+        //Anthony Astudillo
+        Procesadores_Intel p10 = new Procesadores_Intel(20,260.45,5.6,"intel core i7-14700KF","LGA1700",true);
+        Procesadores_Intel p19 = new Procesadores_Intel(8,28.0,4.0,"intel core i5-1135g7","LGA1156",true);
     }
+
 
 
 
