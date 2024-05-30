@@ -52,16 +52,16 @@ public class Main {
         Procesadores_AMD amdVA= new Procesadores_AMD(8,35.00,2.5,"Ryzer 8 5600G","AMD4");
         Procesadores_AMD amdVA3 = new Procesadores_AMD(16,85.00,4.5,"Ryzer 7 5600X","AMD4");
 
+        //Wilmer Vargas
+        Procesadores_AMD pamd1 = new Procesadores_AMD(8, 105.0, 4, "Ryzen 7 5800X", "AM4", false);
+        Procesadores_Intel pIntel1 = new Procesadores_Intel(6, 3.9, "Core i5-11600K", true);
+        Procesadores_Intel pIntel2 = new Procesadores_Intel(8, 3.5, "Core i9-11900K", true);
 
         //Mateo Cardenas
         Procesadores_AMD p21 = new Procesadores_AMD(12, 105.0, 3,"AMD Ryzen™ 9 5900X", "AM4", true);
         Procesadores_AMD p22 = new Procesadores_AMD(8, 3.0, 3,"AMD Ryzen™ 8 PRO 8700GE", "AM5", true);
         Procesadores_AMD p23 = new Procesadores_AMD(6, 65.0, 4,"AMD Ryzen™ 7 8600G", "AM4", true);
 
-        //Wilmer Vargas
-        Procesadores_AMD pamd1 = new Procesadores_AMD(8, 105.0, 4, "Ryzen 7 5800X", "AM4", false);
-        Procesadores_Intel pIntel1 = new Procesadores_Intel(6, 3.9, "Core i5-11600K", true);
-        Procesadores_Intel pIntel2 = new Procesadores_Intel(8, 3.5, "Core i9-11900K", true);
 
 
         //Cambios de Alisson Viteri
