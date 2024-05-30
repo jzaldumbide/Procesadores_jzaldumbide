@@ -11,19 +11,33 @@ public class Main {
 
         //Alisson Muñoz
 
+        //Elkin Diaz
 
 
 
+
+        //Kevin Mendoza
         //Adrian Ramos
 
-
-        //Ithan Camacho
+        //Richard Soria
 
         // Walter Cobacango
-    }
-    public static void main(String[] args) {
 
-        Procesadores pK = new Procesadores();
-        //Kevin Mendoza integrante sto dgo
+        //Elkin Diaz
+    }
+
+
+
+
+    //Richard Padilla
+
+
+
+
+
+
+
+
+        //Josue Guerra
     }
 }
