@@ -8,5 +8,8 @@ public class Main {
 
         Procesadores p1 = new Procesadores();
         //Christian Márquez integrante x
+
+        //Jose Lincango integrante n
+
     }
 }
