@@ -1,5 +1,5 @@
 package org.example;
-
+import procesadores.Procesadores_AMD;
 import procesadores.Procesadores;
 
 
@@ -31,7 +31,8 @@ public class Main {
         //Kevin Mendoza integrante sto dgo
 
 
-
+        // Jose Lincango Instancias
+        Procesadores_AMD proc_900 = new Procesadores_AMD(4,4.5,6.5,"Intel AMD S5","socket ssd");
 
 
 
