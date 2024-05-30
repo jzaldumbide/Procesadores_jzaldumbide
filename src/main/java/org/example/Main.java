@@ -10,5 +10,7 @@ public class Main {
         //Christian Márquez integrante x
 
         //Alisson Muñoz
+
+        //Richard Soria
     }
 }
