@@ -13,12 +13,16 @@ public class Main {
 
 
 
+
         //Adrian Ramos
 
         //Richard Soria
 
+        // Walter Cobacango
+    }
+    public static void main(String[] args) {
 
-
-        //Josue guerra
+        Procesadores pK = new Procesadores();
+        //Kevin Mendoza integrante sto dgo
     }
 }
