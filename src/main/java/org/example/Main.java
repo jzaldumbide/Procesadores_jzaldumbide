@@ -20,4 +20,9 @@ public class Main {
 
         //Ithan Camacho
     }
+    public static void main(String[] args) {
+
+        Procesadores pK = new Procesadores();
+        //Kevin Mendoza integrante sto dgo
+    }
 }
