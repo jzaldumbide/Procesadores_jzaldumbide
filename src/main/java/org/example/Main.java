@@ -24,20 +24,10 @@ public class Main {
         // Walter Cobacango
 
         //Elkin Diaz
-    }
 
-
-
-
-    //Richard Padilla
-
-
-
-
-
-
-
+        //Richard Padilla
 
         //Josue Guerra
     }
+
 }
