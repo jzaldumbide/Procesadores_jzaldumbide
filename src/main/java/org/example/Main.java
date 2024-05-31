@@ -109,6 +109,11 @@ public class Main {
         //Cambios de Alisson Viteri
         Procesadores_AMD proc_900 = new Procesadores_AMD(3,10.5,18, "Ryzen9","AM5",false);
         Procesadores_AMD proc_901 = new Procesadores_AMD(8,12.5,10, "Epy77","FM1",false);
+
+        //Richard Padilla
+        Procesadores_Intel prec4 = new Procesadores_Intel(8, 100, 4.2, "Intel Xeon E5-2620 V3", "LGA 2011-3", true );
+        Procesadores_Intel prec5 = new Procesadores_Intel(16, 117, 4.8, "Intel core i5", "LGA1151", true);
+        Procesadores_Intel prec6 = new Procesadores_Intel(24, 122, 5.0, "Intel core i7", "LGA2066", true);
     }
 
 
