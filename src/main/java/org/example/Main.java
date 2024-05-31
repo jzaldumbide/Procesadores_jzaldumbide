@@ -41,6 +41,12 @@ public class Main {
 
         //Adrian Ramos
 
+        // Carlos Perez
+
+        Procesadores_AMD proceamd1 = new Procesadores_AMD(6, 65.0, 3.5, "Ryzen 5 5600X", "AM4");
+        Procesadores_AMD proceamd2 = new Procesadores_AMD(8, 70.0, 3.8, "Ryzen 5 5700X", "AM4");
+        Procesadores_AMD proceamd3 = new Procesadores_AMD(8, 75.0, 3.9, "Ryzen 5 8600G", "AM5");
+
         //Richard Soria
         Procesadores_AMD p12 = new Procesadores_AMD(12, 105.0, 3,"AMD Ryzen™ 9 5900X", "AM4", true);
         Procesadores_AMD p13 = new Procesadores_AMD(8, 35.0, 3,"AMD Ryzen™ 7 PRO 8700GE", "AM5", true);
