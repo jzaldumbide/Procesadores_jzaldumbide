@@ -46,6 +46,12 @@ public class Main {
         Procesadores_AMD p13 = new Procesadores_AMD(8, 35.0, 3,"AMD Ryzen™ 7 PRO 8700GE", "AM5", true);
         Procesadores_AMD p14 = new Procesadores_AMD(6, 65.0, 4,"AMD Ryzen™ 5 8600G", "AM4", true);
 
+        //Ithan Camacho
+        Procesadores_Intel proc1=new Procesadores_Intel(20, 3.74, 8.0, "Intel® Core™ i5 14500HX", "FCBGA1964", true);
+        Procesadores_Intel proc2=new Procesadores_Intel(28, 4.45, 9.7, "Intel® Core™ i7 14700HX", "FCBGA1964", false);
+        Procesadores_Intel proc3=new Procesadores_Intel(8, 2.12, 2.14, "Intel® Core™ i7-1360P", "FCBGA1744", false);
+
+
         //Anderson Vilatuña
         Procesadores_AMD amdVA1 = new Procesadores_AMD(12,65.00,3.5,"Ryzer 5 3200G","AMD4");
         Procesadores_AMD amdVA= new Procesadores_AMD(8,35.00,2.5,"Ryzer 8 5600G","AMD4");
