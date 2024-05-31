@@ -92,6 +92,14 @@ public class Main {
         Procesadores_Intel p9 = new Procesadores_Intel(24, 6.8, 5.6,"Intel Core I9","LGA 2066", true);
         Procesadores_AMD  p10 = new Procesadores_AMD(12, 4.8, 3, "AMD Ryzen 9 5900X","AM4",true);
         Procesadores_moviles p11 = new Procesadores_moviles(8, 2.2, 8.0, "MediaTek Helio G99",true);
+
+        //Paul Cabrera
+        Procesadores_moviles pc1 = new Procesadores_moviles(4, 2.2, 3.0, "A14 Bionic",true);
+        Procesadores_Intel pc2 = new Procesadores_Intel(2, 6.0, 3.5,"Intel Pentium G4560","LGA 1200", false);
+        Procesadores_AMD  pc3 = new Procesadores_AMD(8,12.5,10, "Epy77","FM1",false);
+
+
+
     }
 
 
