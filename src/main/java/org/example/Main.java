@@ -100,6 +100,10 @@ public class Main {
         Procesadores_Intel pc2 = new Procesadores_Intel(2, 6.0, 3.5,"Intel Pentium G4560","LGA 1200", false);
         Procesadores_AMD  pc3 = new Procesadores_AMD(8,12.5,10, "Epy77","FM1",false);
 
+        //Santiago Cumbal
+        Procesadores_moviles p50 = new Procesadores_moviles(8, 2.0, 2.2, "Snapdragon 695",true);
+        Procesadores_Intel p51 = new Procesadores_Intel(24, 6.0, 6.0,"Intel CoreI9","LGA 374", false);
+        Procesadores_AMD  p52 = new Procesadores_AMD(8,4.3 ,10, "AMD Ryzen 3 3300X","CP2123",false);
 
 
         //Jose Lincango
