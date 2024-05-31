@@ -82,6 +82,11 @@ public class Main {
         Procesadores_AMD p16 = new Procesadores_AMD(7, 105.0, 4,"Ryzen 5 4500 4gen", "AM4", false);
         Procesadores_moviles p17 = new Procesadores_moviles(6,7.25,3.23,"Chip A15 Bionic",true);
 
+
+        //Elkin Diaz
+        Procesadores_Intel p9 = new Procesadores_Intel(24, 6, 5.6,"Intel Core I9","LGA 2066", true);
+        Procesadores_AMD  p10 = new Procesadores_AMD(12, 4.8, 3.7, "AMD Ryzen 9 5900X","AM4",true);
+        Procesadores_moviles p11 = new Procesadores_moviles(8, 2.2, 8, "MediaTek Helio G99",true);
     }
 
 
