@@ -132,6 +132,26 @@ public class Main {
         Procesadores_AMD prec1 = new Procesadores_AMD(12, 105.0, 4.8, "AMD Ryzen 9 5900X", "AM4");
         Procesadores_AMD prec2 = new Procesadores_AMD(8, 105.0, 4.7, "AMD Ryzen 7 5800X", "Socket AM4");
         Procesadores_AMD prec3 = new Procesadores_AMD(6, 65.0, 4.6, "AMD Ryzen 5 5600X", "Socket AM4");
+
+
+
+
+        //Josue Guerra
+        Procesadores_Intel pro21 = new Procesadores_Intel(10, 75.0, 3.5, "Intel Xeon E5-2470 v2 ", "LGA 1356", true);
+        Procesadores_Intel pro22 = new Procesadores_Intel(16,126.3, 3.5, "Intel Core i9-12900K", "FCLGA1700", false );
+        Procesadores_AMD m4 = new Procesadores_AMD(5, 45.6, 4.2, "FCLGA1700","FM2+",true);
+
+
+
+
+
+
+
+
+
+
+
+
     }
 
 
