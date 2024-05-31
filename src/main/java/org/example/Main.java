@@ -78,8 +78,10 @@ public class Main {
         Procesadores_Intel pi2=new Procesadores_Intel(12, 2.45, 5.8, "Core i5-14450HX", "Socked 1200 Boxed", true);
         Procesadores_Intel pi3=new Procesadores_Intel(8, 2.12, 2.14, "Core i7-8705G", " Socket LGA1366", true);
 
-
-
+        //Michelle Suarez.
+        Procesadores_AMD AMD10 = new Procesadores_AMD(2,70.0,2.5,"Ryzer 5 8500G","AMD4");
+        Procesadores_AMD amD20 = new Procesadores_AMD(4,46.0,2.5,"Ryzer 5 8500G","AMD4");
+        Procesadores_AMD amD30 = new Procesadores_AMD(5,80.0,3.5,"Ryzer 5 8400F","AMD4");
 
 
         //Anthony Astudillo
@@ -104,6 +106,7 @@ public class Main {
         Procesadores_AMD proc_100 = new Procesadores_AMD(8, 75.0, 4.0, "Ryzen 7 Series 70000", "AMDS4");
         Procesadores_Intel proc_101 = new Procesadores_Intel(4, 8.5, "Core i7", false);
         Procesadores_AMD proc_102 = new Procesadores_AMD(4,45.0,18.0,"AMD RYZEN 5 SERIES 70000","SOCK 5020");
+
 
 
         //Cambios de Alisson Viteri
