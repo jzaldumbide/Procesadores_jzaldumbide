@@ -124,9 +124,9 @@ public class Main {
         Procesadores_AMD proc_901 = new Procesadores_AMD(8,12.5,10, "Epy77","FM1",false);
 
         //Richard Padilla
-        Procesadores_Intel prec4 = new Procesadores_Intel(8, 100, 4.2, "Intel Xeon E5-2620 V3", "LGA 2011-3", true );
-        Procesadores_Intel prec5 = new Procesadores_Intel(16, 117, 4.8, "Intel core i5", "LGA1151", true);
-        Procesadores_Intel prec6 = new Procesadores_Intel(24, 122, 5.0, "Intel core i7", "LGA2066", true);
+        Procesadores_Intel prec4 = new Procesadores_Intel(8, 100.0, 4.2, "Intel Xeon E5-2620 V3", "LGA 2011-3", true );
+        Procesadores_Intel prec5 = new Procesadores_Intel(16, 117.0, 4.8, "Intel core i5", "LGA1151", true);
+        Procesadores_Intel prec6 = new Procesadores_Intel(24, 122.0, 5.0, "Intel core i7", "LGA2066", true);
 
         // Walter Cobacango
         Procesadores_AMD prec1 = new Procesadores_AMD(12, 105.0, 4.8, "AMD Ryzen 9 5900X", "AM4");
@@ -142,7 +142,7 @@ public class Main {
         //Josue Guerra
         Procesadores_Intel pro21 = new Procesadores_Intel(10, 75.0, 3.5, "Intel Xeon E5-2470 v2 ", "LGA 1356", true);
         Procesadores_Intel pro22 = new Procesadores_Intel(16,126.3, 3.5, "Intel Core i9-12900K", "FCLGA1700", false );
-        Procesadores_AMD m4 = new Procesadores_AMD(5, 45.6, 4.2, "FCLGA1700","FM2+",true);
+        Procesadores_AMD m4 = new Procesadores_AMD(5, 45.6, 4, "FCLGA1700","FM2+",true);
 
 
 
