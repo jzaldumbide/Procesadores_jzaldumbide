@@ -101,6 +101,11 @@ public class Main {
 
 
         //Jose Lincango
+        Procesadores_AMD proc_100 = new Procesadores_AMD(8, 75.0, 4.0, "Ryzen 7 Series 70000", "AMDS4");
+        Procesadores_Intel proc_101 = new Procesadores_Intel(4, 8.5, "Core i7", false);
+        Procesadores_AMD proc_102 = new Procesadores_AMD(4,45.0,18.0,"AMD RYZEN 5 SERIES 70000","SOCK 5020");
+
+
         //Cambios de Alisson Viteri
         Procesadores_AMD proc_900 = new Procesadores_AMD(3,10.5,18, "Ryzen9","AM5",false);
         Procesadores_AMD proc_901 = new Procesadores_AMD(8,12.5,10, "Epy77","FM1",false);
