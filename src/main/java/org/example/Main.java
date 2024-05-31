@@ -133,7 +133,7 @@ public class Main {
         Procesadores_AMD prec2 = new Procesadores_AMD(8, 105.0, 4.7, "AMD Ryzen 7 5800X", "Socket AM4");
         Procesadores_AMD prec3 = new Procesadores_AMD(6, 65.0, 4.6, "AMD Ryzen 5 5600X", "Socket AM4");
 
-        //Mateo Torres
+        //Mateo Torres Lara
         Procesadores_AMD m1 = new Procesadores_AMD(16, 105.0, 3,"Ryzen 9 5950X", "AM4", true);
         Procesadores_moviles m2 = new Procesadores_moviles(4,45.5,3.5,"Snapdragon 750",true);
         Procesadores_Intel m3 = new Procesadores_Intel(16, 125.4, 3.2,"Core i9-12900K", "LGA 1700", false);
